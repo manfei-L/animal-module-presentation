@@ -1,0 +1,11 @@
+body {
+    margin-top:20px;
+}
+.row {
+    margin:20px 0px;
+}
+#display {
+    font-size:32px;
+    vertical-align:middle;
+    padding:0px 25px;
+}
